@@ -8,4 +8,4 @@ Generated from the app's repository (`tools/build_site.py`); do not edit these f
 ## Platforms
 
 - **iPhone** (iOS 17 or later).
-- **Android**: not yet publicly available. The Android version is currently in closed testing on Google Play, and the tests are not finished. No release date has been announced.
+- **Android**: currently in open testing on Google Play (beta). The final public release is not available yet, and no release date has been announced.
