@@ -7,5 +7,5 @@ Generated from the app's repository (`tools/build_site.py`); do not edit these f
 
 ## Platforms
 
-- **iPhone** (iOS 17 or later): available on the App Store.
-- **Android**: currently in closed testing on Google Play; a public release is coming soon. Until then, Golforg is not yet generally available on Android.
+- **iPhone** (iOS 17 or later).
+- **Android**: not yet publicly available. The Android version is currently in closed testing on Google Play, and the tests are not finished. No release date has been announced.
