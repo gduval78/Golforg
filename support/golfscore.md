@@ -40,4 +40,4 @@ Curated notes for the support agent. **Keep this file up to date at every store 
 ## Not supported / limits
 - No sync between phones: one phone per group enters the scores; the organizer collects them via the results QR.
 - Golfscore never shows rankings of the tournament (those are in Golforg); it only counts for the group's card.
-- In-app support link and version line: to be added (planned); until then, contact the organizer or the support address in the online guide.
+- **Help screen (versions after 1.1.0)**: the "?" button on the home screen (iPhone) or the "Help" button at the bottom left (Android) opens Help: **Contact support** (prefilled mail with the app version, phone model, language and number of cards — never names or scores), the user guide, the privacy policy, and the version line "Golfscore x.y.z (build)". The same version line is shown at the bottom of the home screen. In version 1.1.0 there is no Help button: use the support address of the online guide.
