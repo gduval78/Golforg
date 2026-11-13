@@ -1,0 +1,11 @@
+{
+  "name": "Golfscore",
+  "description": "companion app for players and scorers: scan the QR code of a Golforg score card, enter strokes and putts hole by hole, then show a results QR code that the organizer scans in Golforg. Everything stays on the phone, no account and no server",
+  "platforms": ["ios", "android"],
+  "latest_version": {"ios": "1.1.0", "android": "1.1.0"},
+  "signature": "L'équipe Golforg",
+  "docs": ["golfscore/fr/index.html", "golfscore/en/index.html", "support/golfscore.md"],
+  "code_globs": [],
+  "escalate": ["refunds", "billing and charges", "Apple ID or Google account problems", "App Store or Google Play review/listing questions"],
+  "never_say": ["internal file names or source code", "the CLAUDE.md notes"]
+}
