@@ -2,7 +2,7 @@
   "name": "Golforg",
   "description": "organizer app for golf tournaments: players, courses, multi-day schedule, group draw, printed score cards with scanner, gross/net/Stableford/team rankings and PDF export. Everything is stored on the device, no account and no server",
   "platforms": ["ios", "android"],
-  "latest_version": {"ios": "1.2.0", "android": "1.2.0"},
+  "latest_version": {"ios": "1.2.0"},
   "signature": "L'équipe Golforg",
   "docs": ["fr/index.html", "en/index.html", "support/golforg.md"],
   "code_globs": [],

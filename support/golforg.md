@@ -3,7 +3,7 @@
 Curated notes for the support agent. **Keep this file up to date at every store delivery**: add each new feature, limit or known issue with the version it appeared in, then tag the repo `release-golforg-<version>`.
 
 ## Versions
-- iPhone / iPad: 1.2.0. Android: 1.2.0. Same features on both, same data format: a backup file made on one can be restored on the other.
+- iPhone / iPad: 1.2.0 (on the App Store since 13/11/2026). Android: version 1.2.0 exists but is **not yet available to the public on Google Play** (testers only); do not tell Android users to update to it yet. Same features on both, same data format: a backup file made on one can be restored on the other.
 - Golforg is the **organizer's** app. Players and scorers use the companion app **Golfscore** (separate app, see its own notes).
 - No account, no server, no internet needed: all data (players, courses, tournaments, scores) lives on the device. A lost or reset device without a backup means lost data.
 
